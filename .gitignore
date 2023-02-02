@@ -7,3 +7,4 @@ extract/__pycache__/radimagenet.cpython-310.pyc
 extract/__pycache__/swint.cpython-310.pyc
 extract/__pycache__/vit.cpython-310.pyc
 extractfeats.sh.save
+extractfeats.sh
