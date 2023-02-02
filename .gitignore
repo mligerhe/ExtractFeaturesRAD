@@ -1,0 +1,8 @@
+../*.pyc
+extract/__pycache__/extract_rad.cpython-39.pyc
+extract/__pycache__/extract_rad.cpython-310.pyc
+extract/__pycache__/getcuda.cpython-39.pyc
+extract/__pycache__/imagenet.cpython-310.pyc
+extract/__pycache__/radimagenet.cpython-310.pyc
+extract/__pycache__/swint.cpython-310.pyc
+extract/__pycache__/vit.cpython-310.pyc
